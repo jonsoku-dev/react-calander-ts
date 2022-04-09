@@ -13,7 +13,7 @@
     "@types/uuid": "^7.0.2",
     "interact.js": "^1.2.8",
     "interactjs": "^1.9.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.13.0",
     "react-calendar-timeline": "^0.26.7",
     "react-dom": "^16.13.0",
